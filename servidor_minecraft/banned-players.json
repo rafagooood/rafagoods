@@ -1,0 +1,31 @@
+[
+  {
+    "uuid": "9ae2ecc0-78dc-3d9a-8f96-0a8286e8fa17",
+    "name": "crizona89",
+    "created": "2025-12-22 19:04:36 +0000",
+    "source": "Server",
+    "expires": "forever"
+  },
+  {
+    "uuid": "a8a31388-b98e-3a48-8e07-8e5a7b9a24a3",
+    "name": "crizona89bban",
+    "created": "2025-12-24 20:09:03 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "strawfire"
+  },
+  {
+    "uuid": "216346ad-b8b9-3b49-83c3-bd3b0af08669",
+    "name": "hifese",
+    "created": "2025-12-24 20:13:05 +0000",
+    "source": "Server",
+    "expires": "forever"
+  },
+  {
+    "uuid": "66b5e384-c7c8-3c3e-9383-4082e3b3cafa",
+    "name": "yerkoGm12",
+    "created": "2025-12-24 20:12:09 +0000",
+    "source": "Server",
+    "expires": "forever"
+  }
+]
